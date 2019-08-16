@@ -1,2 +1,2 @@
 # sandbox
-fot studying git
+for studying git
